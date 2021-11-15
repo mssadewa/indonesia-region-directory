@@ -1,0 +1,1666 @@
+[
+  {
+    "kode_kota": "11.12",
+    "nama_kota": "Kabupaten Aceh Barat Daya"
+  },
+  {
+    "kode_kota": "11.05",
+    "nama_kota": "Kabupaten Aceh Barat"
+  },
+  {
+    "kode_kota": "11.06",
+    "nama_kota": "Kabupaten Aceh Besar"
+  },
+  {
+    "kode_kota": "11.14",
+    "nama_kota": "Kabupaten Aceh Jaya"
+  },
+  {
+    "kode_kota": "11.01",
+    "nama_kota": "Kabupaten Aceh Selatan"
+  },
+  {
+    "kode_kota": "11.10",
+    "nama_kota": "Kabupaten Aceh Singkil"
+  },
+  {
+    "kode_kota": "11.16",
+    "nama_kota": "Kabupaten Aceh Tamiang"
+  },
+  {
+    "kode_kota": "11.04",
+    "nama_kota": "Kabupaten Aceh Tengah"
+  },
+  {
+    "kode_kota": "11.02",
+    "nama_kota": "Kabupaten Aceh Tenggara"
+  },
+  {
+    "kode_kota": "11.03",
+    "nama_kota": "Kabupaten Aceh Timur"
+  },
+  {
+    "kode_kota": "11.08",
+    "nama_kota": "Kabupaten Aceh Utara"
+  },
+  {
+    "kode_kota": "13.06",
+    "nama_kota": "Kabupaten Agam"
+  },
+  {
+    "kode_kota": "53.05",
+    "nama_kota": "Kabupaten Alor"
+  },
+  {
+    "kode_kota": "12.09",
+    "nama_kota": "Kabupaten Asahan"
+  },
+  {
+    "kode_kota": "91.18",
+    "nama_kota": "Kabupaten Asmat"
+  },
+  {
+    "kode_kota": "51.03",
+    "nama_kota": "Kabupaten Badung"
+  },
+  {
+    "kode_kota": "63.11",
+    "nama_kota": "Kabupaten Balangan"
+  },
+  {
+    "kode_kota": "32.17",
+    "nama_kota": "Kabupaten Bandung Barat"
+  },
+  {
+    "kode_kota": "32.04",
+    "nama_kota": "Kabupaten Bandung"
+  },
+  {
+    "kode_kota": "72.01",
+    "nama_kota": "Kabupaten Banggai"
+  },
+  {
+    "kode_kota": "72.07",
+    "nama_kota": "Kabupaten Banggai Kepulauan"
+  },
+  {
+    "kode_kota": "72.11",
+    "nama_kota": "Kabupaten Banggai Laut"
+  },
+  {
+    "kode_kota": "19.05",
+    "nama_kota": "Kabupaten Bangka Barat"
+  },
+  {
+    "kode_kota": "19.03",
+    "nama_kota": "Kabupaten Bangka Selatan"
+  },
+  {
+    "kode_kota": "19.04",
+    "nama_kota": "Kabupaten Bangka Tengah"
+  },
+  {
+    "kode_kota": "19.01",
+    "nama_kota": "Kabupaten Bangka"
+  },
+  {
+    "kode_kota": "35.26",
+    "nama_kota": "Kabupaten Bangkalan"
+  },
+  {
+    "kode_kota": "51.06",
+    "nama_kota": "Kabupaten Bangli"
+  },
+  {
+    "kode_kota": "63.03",
+    "nama_kota": "Kabupaten Banjar"
+  },
+  {
+    "kode_kota": "33.04",
+    "nama_kota": "Kabupaten Banjarnegara"
+  },
+  {
+    "kode_kota": "73.03",
+    "nama_kota": "Kabupaten Bantaeng"
+  },
+  {
+    "kode_kota": "34.02",
+    "nama_kota": "Kabupaten Bantul"
+  },
+  {
+    "kode_kota": "16.07",
+    "nama_kota": "Kabupaten Banyuasin"
+  },
+  {
+    "kode_kota": "33.02",
+    "nama_kota": "Kabupaten Banyumas"
+  },
+  {
+    "kode_kota": "35.10",
+    "nama_kota": "Kabupaten Banyuwangi"
+  },
+  {
+    "kode_kota": "63.04",
+    "nama_kota": "Kabupaten Barito Kuala"
+  },
+  {
+    "kode_kota": "62.04",
+    "nama_kota": "Kabupaten Barito Selatan"
+  },
+  {
+    "kode_kota": "62.13",
+    "nama_kota": "Kabupaten Barito Timur"
+  },
+  {
+    "kode_kota": "62.05",
+    "nama_kota": "Kabupaten Barito Utara"
+  },
+  {
+    "kode_kota": "73.11",
+    "nama_kota": "Kabupaten Barru"
+  },
+  {
+    "kode_kota": "33.25",
+    "nama_kota": "Kabupaten Batang"
+  },
+  {
+    "kode_kota": "15.04",
+    "nama_kota": "Kabupaten Batanghari"
+  },
+  {
+    "kode_kota": "12.19",
+    "nama_kota": "Kabupaten Batubara"
+  },
+  {
+    "kode_kota": "32.16",
+    "nama_kota": "Kabupaten Bekasi"
+  },
+  {
+    "kode_kota": "19.06",
+    "nama_kota": "Kabupaten Belitung Timur"
+  },
+  {
+    "kode_kota": "19.02",
+    "nama_kota": "Kabupaten Belitung"
+  },
+  {
+    "kode_kota": "53.04",
+    "nama_kota": "Kabupaten Belu"
+  },
+  {
+    "kode_kota": "11.17",
+    "nama_kota": "Kabupaten Bener Meriah"
+  },
+  {
+    "kode_kota": "14.03",
+    "nama_kota": "Kabupaten Bengkalis"
+  },
+  {
+    "kode_kota": "61.07",
+    "nama_kota": "Kabupaten Bengkayang"
+  },
+  {
+    "kode_kota": "17.01",
+    "nama_kota": "Kabupaten Bengkulu Selatan"
+  },
+  {
+    "kode_kota": "17.09",
+    "nama_kota": "Kabupaten Bengkulu Tengah"
+  },
+  {
+    "kode_kota": "17.03",
+    "nama_kota": "Kabupaten Bengkulu Utara"
+  },
+  {
+    "kode_kota": "64.03",
+    "nama_kota": "Kabupaten Berau"
+  },
+  {
+    "kode_kota": "91.06",
+    "nama_kota": "Kabupaten Biak Numfor"
+  },
+  {
+    "kode_kota": "52.06",
+    "nama_kota": "Kabupaten Bima"
+  },
+  {
+    "kode_kota": "21.01",
+    "nama_kota": "Kabupaten Bintan"
+  },
+  {
+    "kode_kota": "11.11",
+    "nama_kota": "Kabupaten Bireuen"
+  },
+  {
+    "kode_kota": "35.05",
+    "nama_kota": "Kabupaten Blitar"
+  },
+  {
+    "kode_kota": "33.16",
+    "nama_kota": "Kabupaten Blora"
+  },
+  {
+    "kode_kota": "75.02",
+    "nama_kota": "Kabupaten Boalemo"
+  },
+  {
+    "kode_kota": "32.01",
+    "nama_kota": "Kabupaten Bogor"
+  },
+  {
+    "kode_kota": "35.22",
+    "nama_kota": "Kabupaten Bojonegoro"
+  },
+  {
+    "kode_kota": "71.01",
+    "nama_kota": "Kabupaten Bolaang Mongondow"
+  },
+  {
+    "kode_kota": "71.11",
+    "nama_kota": "Kabupaten Bolaang Mongondow Selatan"
+  },
+  {
+    "kode_kota": "71.10",
+    "nama_kota": "Kabupaten Bolaang Mongondow Timur"
+  },
+  {
+    "kode_kota": "71.08",
+    "nama_kota": "Kabupaten Bolaang Mongondow Utara"
+  },
+  {
+    "kode_kota": "74.06",
+    "nama_kota": "Kabupaten Bombana"
+  },
+  {
+    "kode_kota": "35.11",
+    "nama_kota": "Kabupaten Bondowoso"
+  },
+  {
+    "kode_kota": "75.03",
+    "nama_kota": "Kabupaten Bone Bolango"
+  },
+  {
+    "kode_kota": "73.08",
+    "nama_kota": "Kabupaten Bone"
+  },
+  {
+    "kode_kota": "91.16",
+    "nama_kota": "Kabupaten Boven Digoel"
+  },
+  {
+    "kode_kota": "33.09",
+    "nama_kota": "Kabupaten Boyolali"
+  },
+  {
+    "kode_kota": "33.29",
+    "nama_kota": "Kabupaten Brebes"
+  },
+  {
+    "kode_kota": "51.08",
+    "nama_kota": "Kabupaten Buleleng"
+  },
+  {
+    "kode_kota": "73.02",
+    "nama_kota": "Kabupaten Bulukumba"
+  },
+  {
+    "kode_kota": "65.01",
+    "nama_kota": "Kabupaten Bulungan"
+  },
+  {
+    "kode_kota": "15.08",
+    "nama_kota": "Kabupaten Bungo"
+  },
+  {
+    "kode_kota": "72.05",
+    "nama_kota": "Kabupaten Buol"
+  },
+  {
+    "kode_kota": "81.09",
+    "nama_kota": "Kabupaten Buru Selatan"
+  },
+  {
+    "kode_kota": "81.04",
+    "nama_kota": "Kabupaten Buru"
+  },
+  {
+    "kode_kota": "74.04",
+    "nama_kota": "Kabupaten Buton"
+  },
+  {
+    "kode_kota": "74.15",
+    "nama_kota": "Kabupaten Buton Selatan"
+  },
+  {
+    "kode_kota": "74.14",
+    "nama_kota": "Kabupaten Buton Tengah"
+  },
+  {
+    "kode_kota": "74.10",
+    "nama_kota": "Kabupaten Buton Utara"
+  },
+  {
+    "kode_kota": "32.07",
+    "nama_kota": "Kabupaten Ciamis"
+  },
+  {
+    "kode_kota": "32.03",
+    "nama_kota": "Kabupaten Cianjur"
+  },
+  {
+    "kode_kota": "33.01",
+    "nama_kota": "Kabupaten Cilacap"
+  },
+  {
+    "kode_kota": "32.09",
+    "nama_kota": "Kabupaten Cirebon"
+  },
+  {
+    "kode_kota": "12.11",
+    "nama_kota": "Kabupaten Dairi"
+  },
+  {
+    "kode_kota": "91.28",
+    "nama_kota": "Kabupaten Deiyai"
+  },
+  {
+    "kode_kota": "12.07",
+    "nama_kota": "Kabupaten Deli Serdang"
+  },
+  {
+    "kode_kota": "33.21",
+    "nama_kota": "Kabupaten Demak"
+  },
+  {
+    "kode_kota": "13.10",
+    "nama_kota": "Kabupaten Dharmasraya"
+  },
+  {
+    "kode_kota": "91.26",
+    "nama_kota": "Kabupaten Dogiyai"
+  },
+  {
+    "kode_kota": "52.05",
+    "nama_kota": "Kabupaten Dompu"
+  },
+  {
+    "kode_kota": "72.03",
+    "nama_kota": "Kabupaten Donggala"
+  },
+  {
+    "kode_kota": "16.11",
+    "nama_kota": "Kabupaten Empat Lawang"
+  },
+  {
+    "kode_kota": "53.08",
+    "nama_kota": "Kabupaten Ende"
+  },
+  {
+    "kode_kota": "73.16",
+    "nama_kota": "Kabupaten Enrekang"
+  },
+  {
+    "kode_kota": "92.03",
+    "nama_kota": "Kabupaten Fakfak"
+  },
+  {
+    "kode_kota": "53.06",
+    "nama_kota": "Kabupaten Flores Timur"
+  },
+  {
+    "kode_kota": "32.05",
+    "nama_kota": "Kabupaten Garut"
+  },
+  {
+    "kode_kota": "11.13",
+    "nama_kota": "Kabupaten Gayo Lues"
+  },
+  {
+    "kode_kota": "51.04",
+    "nama_kota": "Kabupaten Gianyar"
+  },
+  {
+    "kode_kota": "75.05",
+    "nama_kota": "Kabupaten Gorontalo Utara"
+  },
+  {
+    "kode_kota": "75.01",
+    "nama_kota": "Kabupaten Gorontalo"
+  },
+  {
+    "kode_kota": "73.06",
+    "nama_kota": "Kabupaten Gowa"
+  },
+  {
+    "kode_kota": "35.25",
+    "nama_kota": "Kabupaten Gresik"
+  },
+  {
+    "kode_kota": "33.15",
+    "nama_kota": "Kabupaten Grobogan"
+  },
+  {
+    "kode_kota": "34.03",
+    "nama_kota": "Kabupaten Gunung Kidul"
+  },
+  {
+    "kode_kota": "62.10",
+    "nama_kota": "Kabupaten Gunung Mas"
+  },
+  {
+    "kode_kota": "82.01",
+    "nama_kota": "Kabupaten Halmahera Barat"
+  },
+  {
+    "kode_kota": "82.04",
+    "nama_kota": "Kabupaten Halmahera Selatan"
+  },
+  {
+    "kode_kota": "82.02",
+    "nama_kota": "Kabupaten Halmahera Tengah"
+  },
+  {
+    "kode_kota": "82.06",
+    "nama_kota": "Kabupaten Halmahera Timur"
+  },
+  {
+    "kode_kota": "82.03",
+    "nama_kota": "Kabupaten Halmahera Utara"
+  },
+  {
+    "kode_kota": "63.06",
+    "nama_kota": "Kabupaten Hulu Sungai Selatan"
+  },
+  {
+    "kode_kota": "63.07",
+    "nama_kota": "Kabupaten Hulu Sungai Tengah"
+  },
+  {
+    "kode_kota": "63.08",
+    "nama_kota": "Kabupaten Hulu Sungai Utara"
+  },
+  {
+    "kode_kota": "12.16",
+    "nama_kota": "Kabupaten Humbang Hasundutan"
+  },
+  {
+    "kode_kota": "14.04",
+    "nama_kota": "Kabupaten Indragiri Hilir"
+  },
+  {
+    "kode_kota": "14.02",
+    "nama_kota": "Kabupaten Indragiri Hulu"
+  },
+  {
+    "kode_kota": "32.12",
+    "nama_kota": "Kabupaten Indramayu"
+  },
+  {
+    "kode_kota": "91.27",
+    "nama_kota": "Kabupaten Intan Jaya"
+  },
+  {
+    "kode_kota": "91.03",
+    "nama_kota": "Kabupaten Jayapura"
+  },
+  {
+    "kode_kota": "91.02",
+    "nama_kota": "Kabupaten Jayawijaya"
+  },
+  {
+    "kode_kota": "35.09",
+    "nama_kota": "Kabupaten Jember"
+  },
+  {
+    "kode_kota": "51.01",
+    "nama_kota": "Kabupaten Jembrana"
+  },
+  {
+    "kode_kota": "73.04",
+    "nama_kota": "Kabupaten Jeneponto"
+  },
+  {
+    "kode_kota": "33.20",
+    "nama_kota": "Kabupaten Jepara"
+  },
+  {
+    "kode_kota": "35.17",
+    "nama_kota": "Kabupaten Jombang"
+  },
+  {
+    "kode_kota": "92.08",
+    "nama_kota": "Kabupaten Kaimana"
+  },
+  {
+    "kode_kota": "14.01",
+    "nama_kota": "Kabupaten Kampar"
+  },
+  {
+    "kode_kota": "61.06",
+    "nama_kota": "Kabupaten Kapuas Hulu"
+  },
+  {
+    "kode_kota": "62.03",
+    "nama_kota": "Kabupaten Kapuas"
+  },
+  {
+    "kode_kota": "33.13",
+    "nama_kota": "Kabupaten Karanganyar"
+  },
+  {
+    "kode_kota": "51.07",
+    "nama_kota": "Kabupaten Karangasem"
+  },
+  {
+    "kode_kota": "32.15",
+    "nama_kota": "Kabupaten Karawang"
+  },
+  {
+    "kode_kota": "21.02",
+    "nama_kota": "Kabupaten Karimun"
+  },
+  {
+    "kode_kota": "12.06",
+    "nama_kota": "Kabupaten Karo"
+  },
+  {
+    "kode_kota": "62.06",
+    "nama_kota": "Kabupaten Katingan"
+  },
+  {
+    "kode_kota": "17.04",
+    "nama_kota": "Kabupaten Kaur"
+  },
+  {
+    "kode_kota": "61.11",
+    "nama_kota": "Kabupaten Kayong Utara"
+  },
+  {
+    "kode_kota": "33.05",
+    "nama_kota": "Kabupaten Kebumen"
+  },
+  {
+    "kode_kota": "35.06",
+    "nama_kota": "Kabupaten Kediri"
+  },
+  {
+    "kode_kota": "91.11",
+    "nama_kota": "Kabupaten Keerom"
+  },
+  {
+    "kode_kota": "33.24",
+    "nama_kota": "Kabupaten Kendal"
+  },
+  {
+    "kode_kota": "17.08",
+    "nama_kota": "Kabupaten Kepahiang"
+  },
+  {
+    "kode_kota": "21.05",
+    "nama_kota": "Kabupaten Kepulauan Anambas"
+  },
+  {
+    "kode_kota": "81.07",
+    "nama_kota": "Kabupaten Kepulauan Aru"
+  },
+  {
+    "kode_kota": "13.09",
+    "nama_kota": "Kabupaten Kepulauan Mentawai"
+  },
+  {
+    "kode_kota": "14.10",
+    "nama_kota": "Kabupaten Kepulauan Meranti"
+  },
+  {
+    "kode_kota": "71.03",
+    "nama_kota": "Kabupaten Kepulauan Sangihe"
+  },
+  {
+    "kode_kota": "73.01",
+    "nama_kota": "Kabupaten Kepulauan Selayar"
+  },
+  {
+    "kode_kota": "31.01",
+    "nama_kota": "Kabupaten Administrasi Kepulauan Seribu"
+  },
+  {
+    "kode_kota": "71.09",
+    "nama_kota": "Kabupaten Kepulauan Siau Tagulandang Biaro"
+  },
+  {
+    "kode_kota": "82.05",
+    "nama_kota": "Kabupaten Kepulauan Sula"
+  },
+  {
+    "kode_kota": "71.04",
+    "nama_kota": "Kabupaten Kepulauan Talaud"
+  },
+  {
+    "kode_kota": "91.05",
+    "nama_kota": "Kabupaten Kepulauan Yapen"
+  },
+  {
+    "kode_kota": "15.01",
+    "nama_kota": "Kabupaten Kerinci"
+  },
+  {
+    "kode_kota": "61.04",
+    "nama_kota": "Kabupaten Ketapang"
+  },
+  {
+    "kode_kota": "33.10",
+    "nama_kota": "Kabupaten Klaten"
+  },
+  {
+    "kode_kota": "51.05",
+    "nama_kota": "Kabupaten Klungkung"
+  },
+  {
+    "kode_kota": "74.01",
+    "nama_kota": "Kabupaten Kolaka"
+  },
+  {
+    "kode_kota": "74.11",
+    "nama_kota": "Kabupaten Kolaka Timur"
+  },
+  {
+    "kode_kota": "74.08",
+    "nama_kota": "Kabupaten Kolaka Utara"
+  },
+  {
+    "kode_kota": "74.12",
+    "nama_kota": "Kabupaten Konawe Kepulauan"
+  },
+  {
+    "kode_kota": "74.05",
+    "nama_kota": "Kabupaten Konawe Selatan"
+  },
+  {
+    "kode_kota": "74.09",
+    "nama_kota": "Kabupaten Konawe Utara"
+  },
+  {
+    "kode_kota": "74.02",
+    "nama_kota": "Kabupaten Konawe"
+  },
+  {
+    "kode_kota": "63.02",
+    "nama_kota": "Kabupaten Kotabaru"
+  },
+  {
+    "kode_kota": "62.01",
+    "nama_kota": "Kabupaten Kotawaringin Barat"
+  },
+  {
+    "kode_kota": "62.02",
+    "nama_kota": "Kabupaten Kotawaringin Timur"
+  },
+  {
+    "kode_kota": "14.09",
+    "nama_kota": "Kabupaten Kuantan Singingi"
+  },
+  {
+    "kode_kota": "61.12",
+    "nama_kota": "Kabupaten Kubu Raya"
+  },
+  {
+    "kode_kota": "33.19",
+    "nama_kota": "Kabupaten Kudus"
+  },
+  {
+    "kode_kota": "34.01",
+    "nama_kota": "Kabupaten Kulon Progo"
+  },
+  {
+    "kode_kota": "32.08",
+    "nama_kota": "Kabupaten Kuningan"
+  },
+  {
+    "kode_kota": "53.01",
+    "nama_kota": "Kabupaten Kupang"
+  },
+  {
+    "kode_kota": "64.07",
+    "nama_kota": "Kabupaten Kutai Barat"
+  },
+  {
+    "kode_kota": "64.02",
+    "nama_kota": "Kabupaten Kutai Kartanegara"
+  },
+  {
+    "kode_kota": "64.08",
+    "nama_kota": "Kabupaten Kutai Timur"
+  },
+  {
+    "kode_kota": "12.22",
+    "nama_kota": "Kabupaten Labuhanbatu Selatan"
+  },
+  {
+    "kode_kota": "12.23",
+    "nama_kota": "Kabupaten Labuhanbatu Utara"
+  },
+  {
+    "kode_kota": "12.10",
+    "nama_kota": "Kabupaten Labuhanbatu"
+  },
+  {
+    "kode_kota": "16.04",
+    "nama_kota": "Kabupaten Lahat"
+  },
+  {
+    "kode_kota": "62.09",
+    "nama_kota": "Kabupaten Lamandau"
+  },
+  {
+    "kode_kota": "35.24",
+    "nama_kota": "Kabupaten Lamongan"
+  },
+  {
+    "kode_kota": "18.04",
+    "nama_kota": "Kabupaten Lampung Barat"
+  },
+  {
+    "kode_kota": "18.01",
+    "nama_kota": "Kabupaten Lampung Selatan"
+  },
+  {
+    "kode_kota": "18.02",
+    "nama_kota": "Kabupaten Lampung Tengah"
+  },
+  {
+    "kode_kota": "18.07",
+    "nama_kota": "Kabupaten Lampung Timur"
+  },
+  {
+    "kode_kota": "18.03",
+    "nama_kota": "Kabupaten Lampung Utara"
+  },
+  {
+    "kode_kota": "61.08",
+    "nama_kota": "Kabupaten Landak"
+  },
+  {
+    "kode_kota": "12.05",
+    "nama_kota": "Kabupaten Langkat"
+  },
+  {
+    "kode_kota": "91.23",
+    "nama_kota": "Kabupaten Lanny Jaya"
+  },
+  {
+    "kode_kota": "36.02",
+    "nama_kota": "Kabupaten Lebak"
+  },
+  {
+    "kode_kota": "17.07",
+    "nama_kota": "Kabupaten Lebong"
+  },
+  {
+    "kode_kota": "53.13",
+    "nama_kota": "Kabupaten Lembata"
+  },
+  {
+    "kode_kota": "13.07",
+    "nama_kota": "Kabupaten Lima Puluh Kota"
+  },
+  {
+    "kode_kota": "21.04",
+    "nama_kota": "Kabupaten Lingga"
+  },
+  {
+    "kode_kota": "52.01",
+    "nama_kota": "Kabupaten Lombok Barat"
+  },
+  {
+    "kode_kota": "52.02",
+    "nama_kota": "Kabupaten Lombok Tengah"
+  },
+  {
+    "kode_kota": "52.03",
+    "nama_kota": "Kabupaten Lombok Timur"
+  },
+  {
+    "kode_kota": "52.08",
+    "nama_kota": "Kabupaten Lombok Utara"
+  },
+  {
+    "kode_kota": "35.08",
+    "nama_kota": "Kabupaten Lumajang"
+  },
+  {
+    "kode_kota": "73.17",
+    "nama_kota": "Kabupaten Luwu"
+  },
+  {
+    "kode_kota": "73.24",
+    "nama_kota": "Kabupaten Luwu Timur"
+  },
+  {
+    "kode_kota": "73.22",
+    "nama_kota": "Kabupaten Luwu Utara"
+  },
+  {
+    "kode_kota": "35.19",
+    "nama_kota": "Kabupaten Madiun"
+  },
+  {
+    "kode_kota": "33.08",
+    "nama_kota": "Kabupaten Magelang"
+  },
+  {
+    "kode_kota": "35.20",
+    "nama_kota": "Kabupaten Magetan"
+  },
+  {
+    "kode_kota": "64.11",
+    "nama_kota": "Kabupaten Mahakam Ulu"
+  },
+  {
+    "kode_kota": "32.10",
+    "nama_kota": "Kabupaten Majalengka"
+  },
+  {
+    "kode_kota": "76.05",
+    "nama_kota": "Kabupaten Majene"
+  },
+  {
+    "kode_kota": "53.21",
+    "nama_kota": "Kabupaten Malaka"
+  },
+  {
+    "kode_kota": "35.07",
+    "nama_kota": "Kabupaten Malang"
+  },
+  {
+    "kode_kota": "65.02",
+    "nama_kota": "Kabupaten Malinau"
+  },
+  {
+    "kode_kota": "81.08",
+    "nama_kota": "Kabupaten Maluku Barat Daya"
+  },
+  {
+    "kode_kota": "81.01",
+    "nama_kota": "Kabupaten Maluku Tengah"
+  },
+  {
+    "kode_kota": "81.03",
+    "nama_kota": "Kabupaten Maluku Tenggara Barat"
+  },
+  {
+    "kode_kota": "81.02",
+    "nama_kota": "Kabupaten Maluku Tenggara"
+  },
+  {
+    "kode_kota": "76.03",
+    "nama_kota": "Kabupaten Mamasa"
+  },
+  {
+    "kode_kota": "91.20",
+    "nama_kota": "Kabupaten Mamberamo Raya"
+  },
+  {
+    "kode_kota": "91.21",
+    "nama_kota": "Kabupaten Mamberamo Tengah"
+  },
+  {
+    "kode_kota": "76.02",
+    "nama_kota": "Kabupaten Mamuju"
+  },
+  {
+    "kode_kota": "76.06",
+    "nama_kota": "Kabupaten Mamuju Tengah"
+  },
+  {
+    "kode_kota": "76.01",
+    "nama_kota": "Kabupaten Mamuju Utara"
+  },
+  {
+    "kode_kota": "12.13",
+    "nama_kota": "Kabupaten Mandailing Natal"
+  },
+  {
+    "kode_kota": "53.15",
+    "nama_kota": "Kabupaten Manggarai Barat"
+  },
+  {
+    "kode_kota": "53.19",
+    "nama_kota": "Kabupaten Manggarai Timur"
+  },
+  {
+    "kode_kota": "53.10",
+    "nama_kota": "Kabupaten Manggarai"
+  },
+  {
+    "kode_kota": "92.02",
+    "nama_kota": "Kabupaten Manokwari"
+  },
+  {
+    "kode_kota": "92.11",
+    "nama_kota": "Kabupaten Manokwari Selatan"
+  },
+  {
+    "kode_kota": "91.17",
+    "nama_kota": "Kabupaten Mappi"
+  },
+  {
+    "kode_kota": "73.09",
+    "nama_kota": "Kabupaten Maros"
+  },
+  {
+    "kode_kota": "92.10",
+    "nama_kota": "Kabupaten Maybrat"
+  },
+  {
+    "kode_kota": "61.10",
+    "nama_kota": "Kabupaten Melawi"
+  },
+  {
+    "kode_kota": "15.02",
+    "nama_kota": "Kabupaten Merangin"
+  },
+  {
+    "kode_kota": "91.01",
+    "nama_kota": "Kabupaten Merauke"
+  },
+  {
+    "kode_kota": "18.11",
+    "nama_kota": "Kabupaten Mesuji"
+  },
+  {
+    "kode_kota": "91.09",
+    "nama_kota": "Kabupaten Mimika"
+  },
+  {
+    "kode_kota": "71.02",
+    "nama_kota": "Kabupaten Minahasa"
+  },
+  {
+    "kode_kota": "71.05",
+    "nama_kota": "Kabupaten Minahasa Selatan"
+  },
+  {
+    "kode_kota": "71.07",
+    "nama_kota": "Kabupaten Minahasa Tenggara"
+  },
+  {
+    "kode_kota": "71.06",
+    "nama_kota": "Kabupaten Minahasa Utara"
+  },
+  {
+    "kode_kota": "35.16",
+    "nama_kota": "Kabupaten Mojokerto"
+  },
+  {
+    "kode_kota": "72.06",
+    "nama_kota": "Kabupaten Morowali"
+  },
+  {
+    "kode_kota": "72.12",
+    "nama_kota": "Kabupaten Morowali Utara"
+  },
+  {
+    "kode_kota": "16.03",
+    "nama_kota": "Kabupaten Muara Enim"
+  },
+  {
+    "kode_kota": "15.05",
+    "nama_kota": "Kabupaten Muaro Jambi"
+  },
+  {
+    "kode_kota": "17.06",
+    "nama_kota": "Kabupaten Mukomuko"
+  },
+  {
+    "kode_kota": "74.03",
+    "nama_kota": "Kabupaten Muna"
+  },
+  {
+    "kode_kota": "74.13",
+    "nama_kota": "Kabupaten Muna Barat"
+  },
+  {
+    "kode_kota": "62.12",
+    "nama_kota": "Kabupaten Murung Raya"
+  },
+  {
+    "kode_kota": "16.06",
+    "nama_kota": "Kabupaten Musi Banyuasin"
+  },
+  {
+    "kode_kota": "16.05",
+    "nama_kota": "Kabupaten Musi Rawas"
+  },
+  {
+    "kode_kota": "16.13",
+    "nama_kota": "Kabupaten Musi Rawas Utara"
+  },
+  {
+    "kode_kota": "91.04",
+    "nama_kota": "Kabupaten Nabire"
+  },
+  {
+    "kode_kota": "11.15",
+    "nama_kota": "Kabupaten Nagan Raya"
+  },
+  {
+    "kode_kota": "53.16",
+    "nama_kota": "Kabupaten Nagekeo"
+  },
+  {
+    "kode_kota": "21.03",
+    "nama_kota": "Kabupaten Natuna"
+  },
+  {
+    "kode_kota": "91.24",
+    "nama_kota": "Kabupaten Nduga"
+  },
+  {
+    "kode_kota": "53.09",
+    "nama_kota": "Kabupaten Ngada"
+  },
+  {
+    "kode_kota": "35.18",
+    "nama_kota": "Kabupaten Nganjuk"
+  },
+  {
+    "kode_kota": "35.21",
+    "nama_kota": "Kabupaten Ngawi"
+  },
+  {
+    "kode_kota": "12.25",
+    "nama_kota": "Kabupaten Nias Barat"
+  },
+  {
+    "kode_kota": "12.14",
+    "nama_kota": "Kabupaten Nias Selatan"
+  },
+  {
+    "kode_kota": "12.24",
+    "nama_kota": "Kabupaten Nias Utara"
+  },
+  {
+    "kode_kota": "12.04",
+    "nama_kota": "Kabupaten Nias"
+  },
+  {
+    "kode_kota": "65.03",
+    "nama_kota": "Kabupaten Nunukan"
+  },
+  {
+    "kode_kota": "16.10",
+    "nama_kota": "Kabupaten Ogan Ilir"
+  },
+  {
+    "kode_kota": "16.02",
+    "nama_kota": "Kabupaten Ogan Komering Ilir"
+  },
+  {
+    "kode_kota": "16.09",
+    "nama_kota": "Kabupaten Ogan Komering Ulu Selatan"
+  },
+  {
+    "kode_kota": "16.08",
+    "nama_kota": "Kabupaten Ogan Komering Ulu Timur"
+  },
+  {
+    "kode_kota": "16.01",
+    "nama_kota": "Kabupaten Ogan Komering Ulu"
+  },
+  {
+    "kode_kota": "35.01",
+    "nama_kota": "Kabupaten Pacitan"
+  },
+  {
+    "kode_kota": "12.20",
+    "nama_kota": "Kabupaten Padang Lawas Utara"
+  },
+  {
+    "kode_kota": "12.21",
+    "nama_kota": "Kabupaten Padang Lawas"
+  },
+  {
+    "kode_kota": "13.05",
+    "nama_kota": "Kabupaten Padang Pariaman"
+  },
+  {
+    "kode_kota": "12.15",
+    "nama_kota": "Kabupaten Pakpak Bharat"
+  },
+  {
+    "kode_kota": "35.28",
+    "nama_kota": "Kabupaten Pamekasan"
+  },
+  {
+    "kode_kota": "36.01",
+    "nama_kota": "Kabupaten Pandeglang"
+  },
+  {
+    "kode_kota": "36.18",
+    "nama_kota": "Kabupaten Pangandaran"
+  },
+  {
+    "kode_kota": "73.10",
+    "nama_kota": "Kabupaten Pangkajene dan Kepulauan"
+  },
+  {
+    "kode_kota": "91.08",
+    "nama_kota": "Kabupaten Paniai"
+  },
+  {
+    "kode_kota": "72.08",
+    "nama_kota": "Kabupaten Parigi Moutong"
+  },
+  {
+    "kode_kota": "13.12",
+    "nama_kota": "Kabupaten Pasaman Barat"
+  },
+  {
+    "kode_kota": "13.08",
+    "nama_kota": "Kabupaten Pasaman"
+  },
+  {
+    "kode_kota": "64.01",
+    "nama_kota": "Kabupaten Paser"
+  },
+  {
+    "kode_kota": "35.14",
+    "nama_kota": "Kabupaten Pasuruan"
+  },
+  {
+    "kode_kota": "33.18",
+    "nama_kota": "Kabupaten Pati"
+  },
+  {
+    "kode_kota": "92.12",
+    "nama_kota": "Kabupaten Pegunungan Arfak"
+  },
+  {
+    "kode_kota": "91.12",
+    "nama_kota": "Kabupaten Pegunungan Bintang"
+  },
+  {
+    "kode_kota": "33.26",
+    "nama_kota": "Kabupaten Pekalongan"
+  },
+  {
+    "kode_kota": "14.05",
+    "nama_kota": "Kabupaten Pelalawan"
+  },
+  {
+    "kode_kota": "33.27",
+    "nama_kota": "Kabupaten Pemalang"
+  },
+  {
+    "kode_kota": "64.09",
+    "nama_kota": "Kabupaten Penajam Paser Utara"
+  },
+  {
+    "kode_kota": "16.12",
+    "nama_kota": "Kabupaten Penukal Abab Lematang Ilir"
+  },
+  {
+    "kode_kota": "18.09",
+    "nama_kota": "Kabupaten Pesawaran"
+  },
+  {
+    "kode_kota": "18.13",
+    "nama_kota": "Kabupaten Pesisir Barat"
+  },
+  {
+    "kode_kota": "13.01",
+    "nama_kota": "Kabupaten Pesisir Selatan"
+  },
+  {
+    "kode_kota": "11.18",
+    "nama_kota": "Kabupaten Pidie Jaya"
+  },
+  {
+    "kode_kota": "11.07",
+    "nama_kota": "Kabupaten Pidie"
+  },
+  {
+    "kode_kota": "73.15",
+    "nama_kota": "Kabupaten Pinrang"
+  },
+  {
+    "kode_kota": "75.04",
+    "nama_kota": "Kabupaten Pohuwato"
+  },
+  {
+    "kode_kota": "76.04",
+    "nama_kota": "Kabupaten Polewali Mandar"
+  },
+  {
+    "kode_kota": "35.02",
+    "nama_kota": "Kabupaten Ponorogo"
+  },
+  {
+    "kode_kota": "61.02",
+    "nama_kota": "Kabupaten Mempawah"
+  },
+  {
+    "kode_kota": "72.02",
+    "nama_kota": "Kabupaten Poso"
+  },
+  {
+    "kode_kota": "18.10",
+    "nama_kota": "Kabupaten Pringsewu"
+  },
+  {
+    "kode_kota": "35.13",
+    "nama_kota": "Kabupaten Probolinggo"
+  },
+  {
+    "kode_kota": "62.11",
+    "nama_kota": "Kabupaten Pulang Pisau"
+  },
+  {
+    "kode_kota": "82.07",
+    "nama_kota": "Kabupaten Pulau Morotai"
+  },
+  {
+    "kode_kota": "82.08",
+    "nama_kota": "Kabupaten Pulau Taliabu"
+  },
+  {
+    "kode_kota": "91.07",
+    "nama_kota": "Kabupaten Puncak Jaya"
+  },
+  {
+    "kode_kota": "91.25",
+    "nama_kota": "Kabupaten Puncak"
+  },
+  {
+    "kode_kota": "33.03",
+    "nama_kota": "Kabupaten Purbalingga"
+  },
+  {
+    "kode_kota": "32.14",
+    "nama_kota": "Kabupaten Purwakarta"
+  },
+  {
+    "kode_kota": "33.06",
+    "nama_kota": "Kabupaten Purworejo"
+  },
+  {
+    "kode_kota": "92.05",
+    "nama_kota": "Kabupaten Raja Ampat"
+  },
+  {
+    "kode_kota": "17.02",
+    "nama_kota": "Kabupaten Rejang Lebong"
+  },
+  {
+    "kode_kota": "33.17",
+    "nama_kota": "Kabupaten Rembang"
+  },
+  {
+    "kode_kota": "14.07",
+    "nama_kota": "Kabupaten Rokan Hilir"
+  },
+  {
+    "kode_kota": "14.06",
+    "nama_kota": "Kabupaten Rokan Hulu"
+  },
+  {
+    "kode_kota": "53.14",
+    "nama_kota": "Kabupaten Rote Ndao"
+  },
+  {
+    "kode_kota": "53.20",
+    "nama_kota": "Kabupaten Sabu Raijua"
+  },
+  {
+    "kode_kota": "61.01",
+    "nama_kota": "Kabupaten Sambas"
+  },
+  {
+    "kode_kota": "12.17",
+    "nama_kota": "Kabupaten Samosir"
+  },
+  {
+    "kode_kota": "35.27",
+    "nama_kota": "Kabupaten Sampang"
+  },
+  {
+    "kode_kota": "61.03",
+    "nama_kota": "Kabupaten Sanggau"
+  },
+  {
+    "kode_kota": "91.10",
+    "nama_kota": "Kabupaten Sarmi"
+  },
+  {
+    "kode_kota": "15.03",
+    "nama_kota": "Kabupaten Sarolangun"
+  },
+  {
+    "kode_kota": "61.09",
+    "nama_kota": "Kabupaten Sekadau"
+  },
+  {
+    "kode_kota": "17.05",
+    "nama_kota": "Kabupaten Seluma"
+  },
+  {
+    "kode_kota": "33.22",
+    "nama_kota": "Kabupaten Semarang"
+  },
+  {
+    "kode_kota": "81.06",
+    "nama_kota": "Kabupaten Seram Bagian Barat"
+  },
+  {
+    "kode_kota": "81.05",
+    "nama_kota": "Kabupaten Seram Bagian Timur"
+  },
+  {
+    "kode_kota": "36.04",
+    "nama_kota": "Kabupaten Serang"
+  },
+  {
+    "kode_kota": "12.18",
+    "nama_kota": "Kabupaten Serdang Bedagai"
+  },
+  {
+    "kode_kota": "62.07",
+    "nama_kota": "Kabupaten Seruyan"
+  },
+  {
+    "kode_kota": "14.08",
+    "nama_kota": "Kabupaten Siak"
+  },
+  {
+    "kode_kota": "73.14",
+    "nama_kota": "Kabupaten Sidenreng Rappang"
+  },
+  {
+    "kode_kota": "35.15",
+    "nama_kota": "Kabupaten Sidoarjo"
+  },
+  {
+    "kode_kota": "72.10",
+    "nama_kota": "Kabupaten Sigi"
+  },
+  {
+    "kode_kota": "13.03",
+    "nama_kota": "Kabupaten Sijunjung"
+  },
+  {
+    "kode_kota": "53.07",
+    "nama_kota": "Kabupaten Sikka"
+  },
+  {
+    "kode_kota": "12.08",
+    "nama_kota": "Kabupaten Simalungun"
+  },
+  {
+    "kode_kota": "11.09",
+    "nama_kota": "Kabupaten Simeulue"
+  },
+  {
+    "kode_kota": "73.07",
+    "nama_kota": "Kabupaten Sinjai"
+  },
+  {
+    "kode_kota": "61.05",
+    "nama_kota": "Kabupaten Sintang"
+  },
+  {
+    "kode_kota": "35.12",
+    "nama_kota": "Kabupaten Situbondo"
+  },
+  {
+    "kode_kota": "34.04",
+    "nama_kota": "Kabupaten Sleman"
+  },
+  {
+    "kode_kota": "13.11",
+    "nama_kota": "Kabupaten Solok Selatan"
+  },
+  {
+    "kode_kota": "13.02",
+    "nama_kota": "Kabupaten Solok"
+  },
+  {
+    "kode_kota": "73.12",
+    "nama_kota": "Kabupaten Soppeng"
+  },
+  {
+    "kode_kota": "92.01",
+    "nama_kota": "Kabupaten Sorong"
+  },
+  {
+    "kode_kota": "92.04",
+    "nama_kota": "Kabupaten Sorong Selatan"
+  },
+  {
+    "kode_kota": "33.14",
+    "nama_kota": "Kabupaten Sragen"
+  },
+  {
+    "kode_kota": "32.13",
+    "nama_kota": "Kabupaten Subang"
+  },
+  {
+    "kode_kota": "32.02",
+    "nama_kota": "Kabupaten Sukabumi"
+  },
+  {
+    "kode_kota": "62.08",
+    "nama_kota": "Kabupaten Sukamara"
+  },
+  {
+    "kode_kota": "33.11",
+    "nama_kota": "Kabupaten Sukoharjo"
+  },
+  {
+    "kode_kota": "53.18",
+    "nama_kota": "Kabupaten Sumba Barat Daya"
+  },
+  {
+    "kode_kota": "53.12",
+    "nama_kota": "Kabupaten Sumba Barat"
+  },
+  {
+    "kode_kota": "53.17",
+    "nama_kota": "Kabupaten Sumba Tengah"
+  },
+  {
+    "kode_kota": "53.11",
+    "nama_kota": "Kabupaten Sumba Timur"
+  },
+  {
+    "kode_kota": "52.07",
+    "nama_kota": "Kabupaten Sumbawa Barat"
+  },
+  {
+    "kode_kota": "52.04",
+    "nama_kota": "Kabupaten Sumbawa"
+  },
+  {
+    "kode_kota": "32.11",
+    "nama_kota": "Kabupaten Sumedang"
+  },
+  {
+    "kode_kota": "35.29",
+    "nama_kota": "Kabupaten Sumenep"
+  },
+  {
+    "kode_kota": "91.19",
+    "nama_kota": "Kabupaten Supiori"
+  },
+  {
+    "kode_kota": "63.09",
+    "nama_kota": "Kabupaten Tabalong"
+  },
+  {
+    "kode_kota": "51.02",
+    "nama_kota": "Kabupaten Tabanan"
+  },
+  {
+    "kode_kota": "73.05",
+    "nama_kota": "Kabupaten Takalar"
+  },
+  {
+    "kode_kota": "92.09",
+    "nama_kota": "Kabupaten Tambrauw"
+  },
+  {
+    "kode_kota": "65.04",
+    "nama_kota": "Kabupaten Tana Tidung"
+  },
+  {
+    "kode_kota": "73.18",
+    "nama_kota": "Kabupaten Tana Toraja"
+  },
+  {
+    "kode_kota": "63.10",
+    "nama_kota": "Kabupaten Tanah Bumbu"
+  },
+  {
+    "kode_kota": "13.04",
+    "nama_kota": "Kabupaten Tanah Datar"
+  },
+  {
+    "kode_kota": "63.01",
+    "nama_kota": "Kabupaten Tanah Laut"
+  },
+  {
+    "kode_kota": "36.03",
+    "nama_kota": "Kabupaten Tangerang"
+  },
+  {
+    "kode_kota": "18.06",
+    "nama_kota": "Kabupaten Tanggamus"
+  },
+  {
+    "kode_kota": "15.06",
+    "nama_kota": "Kabupaten Tanjung Jabung Barat"
+  },
+  {
+    "kode_kota": "15.07",
+    "nama_kota": "Kabupaten Tanjung Jabung Timur"
+  },
+  {
+    "kode_kota": "12.03",
+    "nama_kota": "Kabupaten Tapanuli Selatan"
+  },
+  {
+    "kode_kota": "12.01",
+    "nama_kota": "Kabupaten Tapanuli Tengah"
+  },
+  {
+    "kode_kota": "12.02",
+    "nama_kota": "Kabupaten Tapanuli Utara"
+  },
+  {
+    "kode_kota": "63.05",
+    "nama_kota": "Kabupaten Tapin"
+  },
+  {
+    "kode_kota": "32.06",
+    "nama_kota": "Kabupaten Tasikmalaya"
+  },
+  {
+    "kode_kota": "15.09",
+    "nama_kota": "Kabupaten Tebo"
+  },
+  {
+    "kode_kota": "33.28",
+    "nama_kota": "Kabupaten Tegal"
+  },
+  {
+    "kode_kota": "92.06",
+    "nama_kota": "Kabupaten Teluk Bintuni"
+  },
+  {
+    "kode_kota": "92.07",
+    "nama_kota": "Kabupaten Teluk Wondama"
+  },
+  {
+    "kode_kota": "33.23",
+    "nama_kota": "Kabupaten Temanggung"
+  },
+  {
+    "kode_kota": "53.02",
+    "nama_kota": "Kabupaten Timor Tengah Selatan"
+  },
+  {
+    "kode_kota": "53.03",
+    "nama_kota": "Kabupaten Timor Tengah Utara"
+  },
+  {
+    "kode_kota": "12.12",
+    "nama_kota": "Kabupaten Toba Samosir"
+  },
+  {
+    "kode_kota": "72.09",
+    "nama_kota": "Kabupaten Tojo Una-Una"
+  },
+  {
+    "kode_kota": "72.04",
+    "nama_kota": "Kabupaten Toli-Toli"
+  },
+  {
+    "kode_kota": "91.14",
+    "nama_kota": "Kabupaten Tolikara"
+  },
+  {
+    "kode_kota": "73.26",
+    "nama_kota": "Kabupaten Toraja Utara"
+  },
+  {
+    "kode_kota": "35.03",
+    "nama_kota": "Kabupaten Trenggalek"
+  },
+  {
+    "kode_kota": "35.23",
+    "nama_kota": "Kabupaten Tuban"
+  },
+  {
+    "kode_kota": "18.12",
+    "nama_kota": "Kabupaten Tulang Bawang Barat"
+  },
+  {
+    "kode_kota": "18.05",
+    "nama_kota": "Kabupaten Tulang Bawang"
+  },
+  {
+    "kode_kota": "35.04",
+    "nama_kota": "Kabupaten Tulungagung"
+  },
+  {
+    "kode_kota": "73.13",
+    "nama_kota": "Kabupaten Wajo"
+  },
+  {
+    "kode_kota": "74.07",
+    "nama_kota": "Kabupaten Wakatobi"
+  },
+  {
+    "kode_kota": "91.15",
+    "nama_kota": "Kabupaten Waropen"
+  },
+  {
+    "kode_kota": "18.08",
+    "nama_kota": "Kabupaten Way Kanan"
+  },
+  {
+    "kode_kota": "33.12",
+    "nama_kota": "Kabupaten Wonogiri"
+  },
+  {
+    "kode_kota": "33.07",
+    "nama_kota": "Kabupaten Wonosobo"
+  },
+  {
+    "kode_kota": "91.13",
+    "nama_kota": "Kabupaten Yahukimo"
+  },
+  {
+    "kode_kota": "91.22",
+    "nama_kota": "Kabupaten Yalimo"
+  }
+]
